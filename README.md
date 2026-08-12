@@ -24,4 +24,4 @@ Output Images:
 ![Filter example](img-samples/output/out.bmp)
 ![Filter example](img-samples/output/out%20(1).bmp)
 ![Filter example](img-samples/output/out%20(2).bmp)
-![Filter example](img-samples/output/out%20(1).bmp)
+![Filter example](img-samples/output/out%20(3).bmp)
