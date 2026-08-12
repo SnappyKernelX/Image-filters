@@ -1,4 +1,4 @@
-Image-filters
+# Image-filters
 
 The program applies different filters to BMP images, including grayscale, reflection, blur, and edge detection.
 
@@ -17,10 +17,10 @@ Then run it with:
 
 Replace -g with the filter you want to use.
 
-Input Image:
+## Input Image:
 ![Filter example](img-samples/input/tower.bmp)
 
-Output Images:
+## Output Images:
 ![Filter example](img-samples/output/out.bmp)
 ![Filter example](img-samples/output/out%20(1).bmp)
 ![Filter example](img-samples/output/out%20(2).bmp)
