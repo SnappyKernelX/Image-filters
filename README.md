@@ -18,7 +18,10 @@ Then run it with:
 Replace -g with the filter you want to use.
 
 Input Image:
-![Filter example](img-samples/tower.bmp)
+![Filter example](img-samples/input/tower.bmp)
 
 Output Images:
-![Filter example](img-samples/tower.bmp)
+![Filter example](img-samples/output/out.bmp)
+![Filter example](img-samples/output/out(1).bmp)
+![Filter example](img-samples/output/out(2).bmp)
+![Filter example](img-samples/output/out(3).bmp)
